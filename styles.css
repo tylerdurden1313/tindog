@@ -1,0 +1,143 @@
+#title{
+  background-color: #ff4c68
+}
+body{
+  font-family: "Montserrat";
+}
+.h{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  color: white;
+  line-height: 1.5
+
+}
+.container-fluid{
+  padding: 3% 15% 3% 15%;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2rem;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.nav-item{
+  padding: 0 18px 0 18px;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: white;
+}
+.btn{
+  margin: 5% 3% 5% 0;
+}
+.titimg{
+  width:60%;
+  transform: rotate(25deg);
+  }
+.col-lg-4{
+  text-align: center;
+}
+h3{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+#tick{
+  color:#ef8172;
+  size:2.5rem;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5%
+}
+#tick2{
+  color:#ef8172;
+  size:2.5rem;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5%
+}
+#tick3{
+  color:#ef8172;
+  size:2.5rem;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5%
+}
+#container-fluid1{
+  padding: 8% 15% 7% 15%;
+}
+#tick:hover{
+  color:#ff4c68;
+}
+#tick2:hover{
+  color:#ff4c68;
+}
+#tick3:hover{
+  color:#ff4c68;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.imgtest{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  color: white;
+  text-align: center;
+  padding-bottom: 3%;
+  margin-bottom: 6%;
+}
+.logo{
+  width: 15%;
+  margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15% 7% 15%;
+}
+p{
+  color: #8f8f8f;
+  font-weight: 300;
+}
+#pricing{
+  padding-left: 100px;
+  margin-bottom: 7%;
+}
+.card-body{
+  text-align: center;
+}
+.main{
+  text-align: center;
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-top: 8%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 8%;
+}
+#footer{
+  padding-top: 8%;
+  padding-bottom: 8%;
+  text-align: center;
+}
+.last{
+  margin-bottom:3%;
+}
